@@ -1,8 +1,26 @@
 aid: cad-solutions
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cad-solutions.png
 name: CAD Solutions
-description: CAD Solutions is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: CAD Solutions, Inc. is a historical Battery Ventures portfolio company that appears in
+  the firm's all-companies list. Research during the API Evangelist enrichment pass found no operating
+  business, no developer surface, and no live web presence behind the name - public records indicate the
+  company was acquired by microCAD Solutions on 1995-05-29, and the closest matching domain,
+  cadsolutions.com, now resolves to a GoDaddy parked "for sale" page rather than a company site. The
+  many unrelated "CAD Solutions" businesses currently trading under similar names (CAD Solutions LLC,
+  CAD Solutions Inc of Dassault partner fame, CADD Solutions, CAD-E Solutions) are separate entities and
+  are not this Battery portfolio record. This profile is retained as a historical VC-portfolio lead with
+  no API surface to catalog.
 url: https://raw.githubusercontent.com/api-evangelist/cad-solutions/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +28,30 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-evidence: Acquired by microCAD Solutions 1995-05-29 (PitchBook company profile 59215-78);
+  cadsolutions.com redirects to a GoDaddy for-sale parked page (HTTP 307, probed 2026-07-20).
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- CAD
+- Computer Aided Design
+- Engineering Software
+- Design Software
+- Venture Capital Portfolio
+- Historical
+- Defunct
 apis: []
+common: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
