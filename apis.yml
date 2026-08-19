@@ -31,7 +31,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-evidence: Acquired by microCAD Solutions 1995-05-29 (PitchBook company profile 59215-78);
   cadsolutions.com redirects to a GoDaddy for-sale parked page (HTTP 307, probed 2026-07-20).
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
