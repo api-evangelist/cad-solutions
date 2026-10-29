@@ -64,12 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CAD Solutions, Inc. is a historical Battery Ventures portfolio company that appears in the firm's all-companies list. Enrichment research found no operating business, no developer surface, and no live web presence behind the name.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-- Public records indicate the company was acquired by microCAD Solutions on 1995-05-29 (PitchBook company profile 59215-78).
-- The closest matching domain, `cadsolutions.com`, redirects (HTTP 307) to a GoDaddy "for sale" parked page rather than a company site.
-- Other businesses currently trading as "CAD Solutions" (CAD Solutions LLC, CADD Solutions, CAD-E Solutions, and the Dassault Systèmes partner CAD SOLUTIONS Inc.) are separate entities, not this Battery portfolio record.
+CAD Solutions, Inc. is a historical Battery Ventures portfolio company that appears in the firm's all-companies list. Research during the API Evangelist enrichment pass found no operating business, no developer surface, and no live web presence behind the name - public records indicate the company was acquired by microCAD Solutions on 1995-05-29, and the closest matching domain, cadsolutions.com, now resolves to a GoDaddy parked "for sale" page rather than a company site. The many unrelated "CAD Solutions" businesses currently trading under similar names (CAD Solutions LLC, CAD Solutions Inc of Dassault partner fame, CADD Solutions, CAD-E Solutions) are separate entities and are not this Battery portfolio record. This profile is retained as a historical VC-portfolio lead with no API surface to catalog.
 
-Backed by: battery-ventures
+**Areas:** Company · CAD · Computer-Aided Design · Engineering Software · Design Software · Venture Capital Portfolio · Historical · Defunct
 
-Status: defunct — no API surface to catalog.
+## CAD Solutions on APIs.io (historical record)
+
+Everything profiled for CAD Solutions is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cad-solutions/](https://apis.io/providers/cad-solutions/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CAD Solutions: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cad-solutions/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
